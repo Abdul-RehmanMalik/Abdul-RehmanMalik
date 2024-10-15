@@ -1,3 +1,7 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Abdul-RehmanMalik)
+
+
+
 - 👋 Hi, I’m @Abdul-RehmanMalik
 - 👀 I’m interested in web development, particularly with the MERN stack, Angular, and .NET Core technologies.
 - 🌱 I’m currently learning more about ASP.NET Core and enhancing my skills in full-stack development.
