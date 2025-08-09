@@ -17,25 +17,60 @@
 
 ## 🛠 Tech Stack & Tools
 
-**Languages & Frameworks**  
-![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) 
+<!-- Compact, on-brand badges. Consistent colors + logos. -->
+<p align="center">
 
-**Databases**  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+  <!-- Languages -->
+  <strong>Languages</strong><br/>
+  <img src="https://img.shields.io/badge/TypeScript-?style=flat-square&logo=typescript&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/JavaScript-?style=flat-square&logo=javascript&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/C%23-?style=flat-square&logo=csharp&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/HTML5-?style=flat-square&logo=html5&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/CSS3-?style=flat-square&logo=css3&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
 
-**Tools & Platforms**  
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+  <br/><br/>
+
+  <!-- Frontend -->
+  <strong>Frontend</strong><br/>
+  <img src="https://img.shields.io/badge/Angular-?style=flat-square&logo=angular&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/React-?style=flat-square&logo=react&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/Bootstrap-?style=flat-square&logo=bootstrap&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+
+  <br/><br/>
+
+  <!-- Backend -->
+  <strong>Backend</strong><br/>
+  <img src="https://img.shields.io/badge/.NET%20Core-?style=flat-square&logo=dotnet&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/Node.js-?style=flat-square&logo=nodedotjs&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/SignalR-?style=flat-square&logo=signal&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+
+  <br/><br/>
+
+  <!-- Databases -->
+  <strong>Databases</strong><br/>
+  <img src="https://img.shields.io/badge/SQL%20Server-?style=flat-square&logo=microsoftsqlserver&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-?style=flat-square&logo=postgresql&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/MongoDB-?style=flat-square&logo=mongodb&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+
+  <br/><br/>
+
+  <!-- Cloud & DevOps -->
+  <strong>Cloud & DevOps</strong><br/>
+  <img src="https://img.shields.io/badge/Azure-?style=flat-square&logo=microsoftazure&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/AWS-?style=flat-square&logo=amazonaws&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/Docker-?style=flat-square&logo=docker&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-?style=flat-square&logo=githubactions&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+
+  <br/><br/>
+
+  <!-- Tools -->
+  <strong>Tools</strong><br/>
+  <img src="https://img.shields.io/badge/Git-?style=flat-square&logo=git&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/Postman-?style=flat-square&logo=postman&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+  <img src="https://img.shields.io/badge/Figma-?style=flat-square&logo=figma&logoColor=00F5FF&labelColor=0D1117&color=1F1F2E" />
+
+</p>
+
 
 ---
 
