@@ -42,9 +42,32 @@
 
 ## 📊 GitHub Stats & Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul-RehmanMalik&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-RehmanMalik&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-RehmanMalik&theme=radical)
+<div align="center">
+
+  <!-- Main stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Abdul-RehmanMalik&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs,stars&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=F5F5F5&icon_color=7D5FFF"
+    height="165"
+    alt="GitHub stats"
+  />
+
+  <!-- Top languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-RehmanMalik&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=F5F5F5"
+    height="165"
+    alt="Top languages"
+  />
+
+  <!-- Streak -->
+  <br/>
+  <img
+    src="https://streak-stats.demolab.com?user=Abdul-RehmanMalik&hide_border=true&background=0D1117&ring=7D5FFF&fire=00F5FF&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=00F5FF&sideLabels=AAAAAA&dates=AAAAAA"
+    height="175"
+    alt="GitHub streak"
+  />
+
+</div>
+
 
 ---
 
