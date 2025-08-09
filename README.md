@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Abdul Rehman
 
-🚀 **Full Stack Software Engineer** | .NET Core | Angular | React | AWS/Azure | Node.js | MERN 
-💡 Passionate about building **scalable, modern, and high-performance applications**  
+🚀 **Full Stack Software Engineer** | .NET Core | Angular | React | AWS/Azure | Node.js | MERN  
+💡 Passionate about building **scalable, modern, and high-performance applications**
 
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on **enterprise-level web applications** in Angular + .NET Core  
+- 🔭 Currently working on **enterprise-level web applications** in Angular/React + .NET Core  
 - 🌱 Expanding my expertise in **Microservices, Cloud Deployments, and Performance Optimization**  
 - 🤝 Open to collaborating on **open-source projects** and **innovative SaaS solutions**  
 - 📍 Based in Pakistan – working globally with remote teams
